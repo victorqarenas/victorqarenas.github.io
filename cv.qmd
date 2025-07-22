@@ -1,6 +1,6 @@
 ---
 title: "Víctor Quiñones Arenas"
-subtitle: "Cientista Político | Analista de Datos | Defensor de Derechos Humanos"
+subtitle: "Cientista Político | Analista de Datos | Defensor de DDHH"
 format: 
   html:
     toc: false
