@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Víctor Quiñones Arenas",
-    "section": "",
-    "text": "Cientista Político | Analista de Datos | Defensor de DDHH"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Víctor Quiñones Arenas",
-    "section": "",
-    "text": "Cientista político, egresado de la Universidad Central de Venezuela, y magíster en Gobierno y Dirección Pública por la Universidad Autónoma de Chile. He estado vinculado a organizaciones de la sociedad civil en el ámbito de los derechos humanos, así como a grupos técnicos dedicados al monitoreo de procesos electorales, el análisis de políticas públicas y la gestión de información de gobiernos regionales y locales."
-  },
-  {
-    "objectID": "cv.html#formación-académica",
-    "href": "cv.html#formación-académica",
-    "title": "Víctor Quiñones Arenas",
-    "section": "Formación académica",
-    "text": "Formación académica\n * Magíster en Gobierno y Dirección Pública | Universidad Autónoma de Chile2022-2024\n * Diplomado en Gestión de Recursos Públicos | Universidad Autónoma de Chile2024\n * Diplomado en Dirección Estratégica | Universidad Autónoma de Chile2023\n * Diplomado en Entorno Estratégico | Universidad Autónoma de Chile2023\n * Especialización en Derecho y Política Internacionales | Universidad Central de Venezuela2011-2013\n * Licenciado en Ciencias Políticas y Administrativas | Universidad Central de Venezuela2004-2009\n * Técnico Superior Universitario, Informática | Instituto Universitario de Gerencia y Tecnología2004-2006"
-  },
-  {
-    "objectID": "cv.html#experiencia-profesional",
-    "href": "cv.html#experiencia-profesional",
-    "title": "Víctor Quiñones Arenas",
-    "section": "Experiencia profesional",
-    "text": "Experiencia profesional\n * Investigador Monitor Cívico | CIVILIS | Caracas | Venezuela2012-actualidad\n * Investigador - Analista | Mosaikho Analítica | Caracas | Venezuela2012-2020\n * Educador canino | Universidad Canina | Venezuela y Chile2014-2022\n * Investigador área tecnológica | Consultores Información y Gestión C.A | Caracas | Venezuela2014-2019\n * Asistente de investigación | Instituto de Estudios Parlamentarios Fermín Toro | Caracas | Venezuela2011-2012\n * Asistente de investigación | Acción Solidaria | Caracas | Venezuela2010-2012"
-  },
-  {
-    "objectID": "cv.html#certificaciones-y-cursos",
-    "href": "cv.html#certificaciones-y-cursos",
-    "title": "Víctor Quiñones Arenas",
-    "section": "Certificaciones y Cursos",
-    "text": "Certificaciones y Cursos\n\nData Analytics con Tableau | Escuela de Postgrado y Educación Continua FCFM | Universidad de Chile\n\n\n2023"
-  },
-  {
-    "objectID": "cv.html#idiomas",
-    "href": "cv.html#idiomas",
-    "title": "Currículum Vitae",
-    "section": "",
-    "text": "Español: Nativo\n\nInglés: Intermedio (B1)"
-  },
-  {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Proyectos",
@@ -49,11 +7,25 @@
     "text": "Bienvenido a mi Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 16, 2025\n\n\nVíctor Quiñones Arenas\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html#becas-y-reconocimientos",
-    "href": "cv.html#becas-y-reconocimientos",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Víctor Quiñones Arenas",
-    "section": "Becas y reconocimientos",
-    "text": "Becas y reconocimientos\n\nBecario cohorte 2022-2024 | Santiago, Chile | Fundación Konrad Adenauer\n\n\n\n\n2022-2024"
+    "section": "",
+    "text": "Cientista Político | Analista de Datos | Defensor de DDHH"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Bienvenido a mi Blog",
+    "section": "",
+    "text": "Bienvenido!\n\nEsto es una prueba image, en construcción."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Víctor Quiñones Arenas",
+    "section": "",
+    "text": "Cientista político, egresado de la Universidad Central de Venezuela, y magíster en Gobierno y Dirección Pública por la Universidad Autónoma de Chile. He estado vinculado a organizaciones de la sociedad civil en el ámbito de los derechos humanos, así como a grupos técnicos dedicados al monitoreo de procesos electorales, el análisis de políticas públicas y la gestión de información de gobiernos regionales y locales."
   },
   {
     "objectID": "cv.html#experiencia-laboral",
@@ -70,10 +42,24 @@
     "text": "Otros proyectos\n * Educador Canino | Universidad Canina | Venezuela y Chile\n- Coordinación de traslados internacionales VIP de mascotas, análisis de mercado, investigación de requisitos legales y puesta en marcha del servicio MascoViajes.\n- Responsabilidad de la operación en Chile, incluyendo el registro legal de las marcas Universidad Canina Chile y Buen Ciudadano Canino.\n- Adiestramiento de perros en obediencia básica, intermedia y avanzada, incluyendo el trabajo con cachorros y modificación de conductas.\n- Preparación y evaluación de perros bajo los estándares de la prueba Buen Ciudadano Canino (AKC), aplicando certificaciones a perros.2014-2022"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Bienvenido a mi Blog",
-    "section": "",
-    "text": "Bienvenido!\n\nEsto es una prueba image, en construcción."
+    "objectID": "cv.html#formación-académica",
+    "href": "cv.html#formación-académica",
+    "title": "Víctor Quiñones Arenas",
+    "section": "Formación académica",
+    "text": "Formación académica\n * Magíster en Gobierno y Dirección Pública | Universidad Autónoma de Chile2022-2024\n * Diplomado en Gestión de Recursos Públicos | Universidad Autónoma de Chile2024\n * Diplomado en Dirección Estratégica | Universidad Autónoma de Chile2023\n * Diplomado en Entorno Estratégico | Universidad Autónoma de Chile2023\n * Especialización en Derecho y Política Internacionales | Universidad Central de Venezuela2011-2013\n * Licenciado en Ciencias Políticas y Administrativas | Universidad Central de Venezuela2004-2009\n * Técnico Superior Universitario, Informática | Instituto Universitario de Gerencia y Tecnología2004-2006"
+  },
+  {
+    "objectID": "cv.html#certificaciones-y-cursos",
+    "href": "cv.html#certificaciones-y-cursos",
+    "title": "Víctor Quiñones Arenas",
+    "section": "Certificaciones y Cursos",
+    "text": "Certificaciones y Cursos\n\nData Analytics con Tableau | Escuela de Postgrado y Educación Continua FCFM | Universidad de Chile\n\n\n2023"
+  },
+  {
+    "objectID": "cv.html#becas-y-reconocimientos",
+    "href": "cv.html#becas-y-reconocimientos",
+    "title": "Víctor Quiñones Arenas",
+    "section": "Becas y reconocimientos",
+    "text": "Becas y reconocimientos\n\nBecario cohorte 2022-2024 | Santiago, Chile | Fundación Konrad Adenauer\n\n\n\n\n2022-2024"
   }
 ]
