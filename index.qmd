@@ -1,0 +1,18 @@
+---
+title: "Víctor Quiñones Arenas"
+image: profilephoto.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: X
+      href: https://twitter.com/victorquiar
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/victor-quinones-arenas
+    - icon: github
+      text: Github
+      href: https://github.com/victorqarenas
+---
+
+*Cientista Político \| Analista de Datos \| Defensor de DDHH*

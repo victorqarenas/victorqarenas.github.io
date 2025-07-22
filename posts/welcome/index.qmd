@@ -1,0 +1,12 @@
+---
+title: "Bienvenido a mi Blog"
+author: "Víctor Quiñones Arenas"
+date: "2025-07-16"
+categories: [news]
+---
+
+Bienvenido!
+
+![](thumbnail.jpg)
+
+Esto es una prueba `image`, en construcción.

@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Víctor Quiñones Arenas"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Proyectos"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/victorqarenas
+      - icon: twitter
+        href: https://x.com/victorquiar
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+
