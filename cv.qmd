@@ -6,8 +6,7 @@ format:
     toc: false
 ---
 
-:::: {.columns}
-
+::::::: columns
 ::: {.column width="20%"}
 ![](profilephoto.jpg)
 :::
@@ -23,107 +22,91 @@ Cientista político, egresado de la Universidad Central de Venezuela, y magíste
 ::: {.column width="2%"}
 <!-- empty column to create gap -->
 :::
-::::
+:::::::
 
----
+------------------------------------------------------------------------
 
----
+------------------------------------------------------------------------
 
 ## Experiencia laboral
 
-[2012-Actualidad (remoto)]{.aside}
-* **Investigador Monitor Cívico** | CIVILIS | Caracas | Venezuela  
-  - Monitoreo y documentación de vulneraciones a los derechos de la sociedad civil, y elaboración de informes, boletines y dashboards sobre restricciones al espacio cívico.  
-  - Asesoría y apoyo en metodologías de monitoreo y documentación de vulneraciones de derechos humanos, y talleres de formación dirigidos a organizaciones de la sociedad civil.  
-  - Sistematización de estándares internacionales (mecanismos y órganos de DDHH) para aplicarlos en diagnósticos e investigaciones sobre derechos de la sociedad civil.  
-  - Aplicación de entrevistas de diagnóstico, procesamiento de encuestas y cuestionarios como insumos para investigaciones especiales y reportes periódicos.  
-  - Gestión de páginas web para la difusión de información.  
+[2012-Actualidad (remoto)]{.aside} \* **Investigador Monitor Cívico** \| CIVILIS \| Caracas \| Venezuela\
+- Monitoreo y documentación de vulneraciones a los derechos de la sociedad civil, y elaboración de informes, boletines y dashboards sobre restricciones al espacio cívico.\
+- Asesoría y apoyo en metodologías de monitoreo y documentación de vulneraciones de derechos humanos, y talleres de formación dirigidos a organizaciones de la sociedad civil.\
+- Sistematización de estándares internacionales (mecanismos y órganos de DDHH) para aplicarlos en diagnósticos e investigaciones sobre derechos de la sociedad civil.\
+- Aplicación de entrevistas de diagnóstico, procesamiento de encuestas y cuestionarios como insumos para investigaciones especiales y reportes periódicos.\
+- Gestión de páginas web para la difusión de información.
 
-[2012-2020]{.aside}
-* **Investigador – Analista** | Mosaikho Analítica | Caracas | Venezuela  
-  - Diseño y aplicación de instrumentos de recolección de datos, estructuración de bases de datos, procesamiento y análisis estadístico en SPSS.  
-  - Apoyo en la facilitación de grupos focales y elaboración de informes analíticos relacionados con clima laboral.  
-  - Elaboración de informes, reportes y presentaciones para clientes, incluyendo análisis de entorno de actores y marcos legislativos.  
-  - Diagnósticos y análisis de bases de datos.  
+[2012-2020]{.aside} \* **Investigador – Analista** \| Mosaikho Analítica \| Caracas \| Venezuela\
+- Diseño y aplicación de instrumentos de recolección de datos, estructuración de bases de datos, procesamiento y análisis estadístico en SPSS.\
+- Apoyo en la facilitación de grupos focales y elaboración de informes analíticos relacionados con clima laboral.\
+- Elaboración de informes, reportes y presentaciones para clientes, incluyendo análisis de entorno de actores y marcos legislativos.\
+- Diagnósticos y análisis de bases de datos.
 
-[2014-2017]{.aside}
-* **Investigador Área Tecnológica** | Consultores Información y Gestión C.A. | Caracas | Venezuela  
-  - Levantamiento de inventarios tecnológicos y aplicación de instrumentos de recolección de datos para diagnósticos de participación ciudadana.  
-  - Análisis de bases de datos mediante técnicas de Data Mining, sistematización de resultados y apoyo en la validación de indicadores de gestión.  
-  - Elaboración de recomendaciones técnicas y de gestión de información para gobiernos regionales y locales.  
-  - Apoyo en la coordinación y supervisión del desarrollo de herramientas de información.  
+[2014-2017]{.aside} \* **Investigador Área Tecnológica** \| Consultores Información y Gestión C.A. \| Caracas \| Venezuela\
+- Levantamiento de inventarios tecnológicos y aplicación de instrumentos de recolección de datos para diagnósticos de participación ciudadana.\
+- Análisis de bases de datos mediante técnicas de Data Mining, sistematización de resultados y apoyo en la validación de indicadores de gestión.\
+- Elaboración de recomendaciones técnicas y de gestión de información para gobiernos regionales y locales.\
+- Apoyo en la coordinación y supervisión del desarrollo de herramientas de información.
 
-[2010-2013]{.aside}
-* **Analista / Consultor en Monitoreo Electoral** | Consultoría Independiente | Venezuela  
-  - Monitoreo del comportamiento de actores clave antes y durante procesos electorales (2010, 2012 y 2013), generando insumos estratégicos para la planificación de campañas.  
-  - Análisis de información proveniente de prensa, redes sociales y reportes locales para evaluar el desarrollo de los procesos electorales y detectar patrones de movilización.  
-  - Apoyo en la organización y facilitación de talleres de formación para equipos de trabajo y candidatos.  
-  - Elaboración de reportes y análisis situacionales en períodos preelectorales y durante las jornadas de votación.  
+[2010-2013]{.aside} \* **Analista / Consultor en Monitoreo Electoral** \| Consultoría Independiente \| Venezuela\
+- Monitoreo del comportamiento de actores clave antes y durante procesos electorales (2010, 2012 y 2013), generando insumos estratégicos para la planificación de campañas.\
+- Análisis de información proveniente de prensa, redes sociales y reportes locales para evaluar el desarrollo de los procesos electorales y detectar patrones de movilización.\
+- Apoyo en la organización y facilitación de talleres de formación para equipos de trabajo y candidatos.\
+- Elaboración de reportes y análisis situacionales en períodos preelectorales y durante las jornadas de votación.
 
-[2011-2012]{.aside}
-* **Asistente de Investigación** | Instituto de Estudios Parlamentarios Fermín Toro | Caracas | Venezuela  
-  - Recolección de información de fuentes oficiales nacionales y regionales, incluyendo registros administrativos de gobernaciones y municipalidades.  
-  - Apoyo en entrevistas a actores políticos como diputados, directivos y funcionarios regionales para la recopilación de información cualitativa.  
-  - Apoyo en la sistematización de problemas sociales prioritarios y respuestas gubernamentales en documentos y bases de datos en Microsoft Access.  
-  - Elaboración de insumos para la identificación de logros de los gobiernos regionales y municipales asociados a la calidad de vida y participación ciudadana.  
+[2011-2012]{.aside} \* **Asistente de Investigación** \| Instituto de Estudios Parlamentarios Fermín Toro \| Caracas \| Venezuela\
+- Recolección de información de fuentes oficiales nacionales y regionales, incluyendo registros administrativos de gobernaciones y municipalidades.\
+- Apoyo en entrevistas a actores políticos como diputados, directivos y funcionarios regionales para la recopilación de información cualitativa.\
+- Apoyo en la sistematización de problemas sociales prioritarios y respuestas gubernamentales en documentos y bases de datos en Microsoft Access.\
+- Elaboración de insumos para la identificación de logros de los gobiernos regionales y municipales asociados a la calidad de vida y participación ciudadana.
 
-[2010-2012]{.aside}
-* **Asistente de Investigación** | Acción Solidaria | Caracas | Venezuela  
-  - Recopilación y sistematización de informes sobre derechos humanos y VIH, incluyendo resoluciones y estándares de órganos de protección de Naciones Unidas.  
-  - Apoyo en el diseño, aplicación y análisis de instrumentos de investigación (cuestionarios) a usuarios de servicios de salud.  
-  - Procesamiento de datos en Excel y SPSS, con carga, depuración y análisis para generar insumos de investigación.  
-  - Apoyo en la organización de talleres, redacción de minutas y elaboración de informes preliminares para el proyecto, junto con apoyo a actividades de la Coordinación de Incidencia Pública.  
+[2010-2012]{.aside} \* **Asistente de Investigación** \| Acción Solidaria \| Caracas \| Venezuela\
+- Recopilación y sistematización de informes sobre derechos humanos y VIH, incluyendo resoluciones y estándares de órganos de protección de Naciones Unidas.\
+- Apoyo en el diseño, aplicación y análisis de instrumentos de investigación (cuestionarios) a usuarios de servicios de salud.\
+- Procesamiento de datos en Excel y SPSS, con carga, depuración y análisis para generar insumos de investigación.\
+- Apoyo en la organización de talleres, redacción de minutas y elaboración de informes preliminares para el proyecto, junto con apoyo a actividades de la Coordinación de Incidencia Pública.
 
----
+------------------------------------------------------------------------
 
 ## Otros proyectos
 
-[2014-2022]{.aside}
-* **Educador Canino** | Universidad Canina | Venezuela y Chile  
-  - Coordinación de traslados internacionales VIP de mascotas, análisis de mercado, investigación de requisitos legales y puesta en marcha del servicio MascoViajes.  
-  - Responsabilidad de la operación en Chile, incluyendo el registro legal de las marcas Universidad Canina Chile y Buen Ciudadano Canino.  
-  - Adiestramiento de perros en obediencia básica, intermedia y avanzada, incluyendo el trabajo con cachorros y modificación de conductas.  
-  - Preparación y evaluación de perros bajo los estándares de la prueba Buen Ciudadano Canino (AKC), aplicando certificaciones a perros.  
+[2014-2022]{.aside} \* **Educador Canino** \| Universidad Canina \| Venezuela y Chile\
+- Coordinación de traslados internacionales VIP de mascotas, análisis de mercado, investigación de requisitos legales y puesta en marcha del servicio MascoViajes.\
+- Responsabilidad de la operación en Chile, incluyendo el registro legal de las marcas Universidad Canina Chile y Buen Ciudadano Canino.\
+- Adiestramiento de perros en obediencia básica, intermedia y avanzada, incluyendo el trabajo con cachorros y modificación de conductas.\
+- Preparación y evaluación de perros bajo los estándares de la prueba Buen Ciudadano Canino (AKC), aplicando certificaciones a perros.
 
----
+------------------------------------------------------------------------
 
-  
----
-
+------------------------------------------------------------------------
 
 ## Formación académica
 
-[2022-2024]{.aside}
-* **Magíster en Gobierno y Dirección Pública** | Universidad Autónoma de Chile  
+[2022-2024]{.aside} \* **Magíster en Gobierno y Dirección Pública** \| Universidad Autónoma de Chile
 
-[2024]{.aside}
-* **Diplomado en Gestión de Recursos Públicos** | Universidad Autónoma de Chile  
+[2024]{.aside} \* **Diplomado en Gestión de Recursos Públicos** \| Universidad Autónoma de Chile
 
-[2023]{.aside}
-* **Diplomado en Dirección Estratégica** | Universidad Autónoma de Chile  
+[2023]{.aside} \* **Diplomado en Dirección Estratégica** \| Universidad Autónoma de Chile
 
-[2023]{.aside}
-* **Diplomado en Entorno Estratégico** | Universidad Autónoma de Chile  
+[2023]{.aside} \* **Diplomado en Entorno Estratégico** \| Universidad Autónoma de Chile
 
-[2011-2013]{.aside}
-* **Especialización en Derecho y Política Internacionales** | Universidad Central de Venezuela  
+[2011-2013]{.aside} \* **Especialización en Derecho y Política Internacionales** \| Universidad Central de Venezuela
 
-[2004-2009]{.aside}
-* **Licenciado en Ciencias Políticas y Administrativas** | Universidad Central de Venezuela  
+[2004-2009]{.aside} \* **Licenciado en Ciencias Políticas y Administrativas** \| Universidad Central de Venezuela
 
-[2004-2006]{.aside}
-* **Técnico Superior Universitario, Informática** | Instituto Universitario de Gerencia y Tecnología  
+[2004-2006]{.aside} \* **Técnico Superior Universitario, Informática** \| Instituto Universitario de Gerencia y Tecnología
 
----
+------------------------------------------------------------------------
 
 ## Certificaciones y Cursos
 
-- **Data Analytics con Tableau** | Escuela de Postgrado y Educación Continua FCFM | Universidad de Chile  
-  [2023]{.aside}  
+-   **Data Analytics con Tableau** \| Escuela de Postgrado y Educación Continua FCFM \| Universidad de Chile\
+    [2023]{.aside}
 
----
+------------------------------------------------------------------------
 
 ## Becas y reconocimientos
 
-- **Becario cohorte 2022-2024** | Santiago, Chile | Fundación Konrad Adenauer  
-  [2022-2024]{.aside}  
+-   **Becario cohorte 2022-2024** \| Santiago, Chile \| Fundación Konrad Adenauer\
+    [2022-2024]{.aside}
